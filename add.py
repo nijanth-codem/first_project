@@ -1,3 +1,4 @@
 a = 4
 b = 6
-print (a + b)
+c = 4
+print (a + b + c)
