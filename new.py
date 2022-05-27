@@ -1,4 +1,4 @@
 a = 1
-b = 3
-print (a * b)
-print (a - b)
+b = 2
+print(a + b)
+c = 3
